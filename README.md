@@ -4,3 +4,4 @@
 - Lodash.clamp()
 - Lodash.fill()
 - Lodash.once()
+- Lodash.limit()
