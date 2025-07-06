@@ -3,3 +3,4 @@
 - Lodash.get()
 - Lodash.clamp()
 - Lodash.fill()
+- Lodash.once()
