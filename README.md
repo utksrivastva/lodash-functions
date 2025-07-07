@@ -5,3 +5,4 @@
 - Lodash.fill()
 - Lodash.once()
 - Lodash.limit()
+- Lodash.conformsTo()
