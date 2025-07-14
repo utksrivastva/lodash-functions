@@ -7,3 +7,4 @@
 - Lodash.limit()
 - Lodash.conformsTo()
 - Lodash.countBy()
+- Lodash.groupBy()
