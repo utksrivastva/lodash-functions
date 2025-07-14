@@ -6,3 +6,4 @@
 - Lodash.once()
 - Lodash.limit()
 - Lodash.conformsTo()
+- Lodash.countBy()
