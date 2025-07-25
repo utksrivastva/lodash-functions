@@ -8,3 +8,4 @@
 - Lodash.conformsTo()
 - Lodash.countBy()
 - Lodash.groupBy()
+- Lodash.chunk()
