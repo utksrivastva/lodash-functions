@@ -9,3 +9,4 @@
 - Lodash.countBy()
 - Lodash.groupBy()
 - Lodash.chunk()
+- Lodash.debounce()
