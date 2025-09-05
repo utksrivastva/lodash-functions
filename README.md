@@ -10,3 +10,4 @@
 - Lodash.groupBy()
 - Lodash.chunk()
 - Lodash.debounce()
+- Lodash.find()
